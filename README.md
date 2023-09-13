@@ -40,6 +40,30 @@ The functionality process of the product is as follows:
 <img src="https://github.com/CharuNish/Automatic-water-dispenser-for-pets/assets/60501756/aa7c76e6-1e21-4783-bf40-540362cc0b05" width ="75%" />  
 </p>
 
+### BoM
+  
+| Component | Quantity |
+| --------- | ---------|
+|5V Relay Module  | 1 |
+|12V Submergible water pump  | 1 |
+|ATMega328P Microcontroller  | 1 |
+|HC-SR04 Ultrasonic Sensor | 1 |
+|SEN18 Water level sensor |	1 |
+|12V Power Adapter | 1 |
+|0.1µF Capacitor | 1 |
+|0.33µF Capacitor |	1 |
+|22pF Capacitor | 2 |
+|L7805 Voltage regulator | 1 |
+|16MHz Crystal Oscillator  |	1 |
+|10kΩ resistor |	1 |
+|Buzzer 	| 3 |
+|JST Connectors (2port) |	2|
+|JST Connectors (3port) |	1|
+|JST Connectors (4port) |	1|
+|JST Connectors (5port) |	1|
+
+
+
 ### PCB Design
 Printed circuit board was designed with Altium Designer 23.3.1. It was a two-layer design. Manufacturing was done at JLCPCB in China. 
 
