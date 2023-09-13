@@ -15,7 +15,7 @@ To full fill the identified requirements following features were incoparated.
 
 ### Block Diagram
 <p align="center">
-<img src="https://github.com/CharuNish/Automatic-water-dispenser-for-pets/assets/60501756/174113d7-3f87-46cf-86ae-580199d7db91" width ="90%" />  
+<img src="https://github.com/CharuNish/Automatic-water-dispenser-for-pets/assets/60501756/a2a6c120-9e4d-48ca-b3b4-57e68a7ce241" width ="75%" />  
 </p>
 
 ### Functionality
@@ -37,7 +37,7 @@ The functionality process of the product is as follows:
 ### Schematic Design
 
 <p align="center">
-<img src="https://github.com/CharuNish/Automatic-water-dispenser-for-pets/assets/60501756/aa7c76e6-1e21-4783-bf40-540362cc0b05" width ="75%" />  
+<img src="https://github.com/CharuNish/Automatic-water-dispenser-for-pets/assets/60501756/9293d717-908c-4771-9535-484bdff2f4a7" width ="60%" />  
 </p>
 
 ### BoM
@@ -68,13 +68,25 @@ The functionality process of the product is as follows:
 Printed circuit board was designed with Altium Designer 23.3.1. It was a two-layer design. Manufacturing was done at JLCPCB in China. 
 
 <p align="center">
-<img src="https://github.com/CharuNish/Automatic-water-dispenser-for-pets/assets/60501756/a927f6aa-2c12-4c24-9c16-002957a755a3" width ="50%" />  
+<img src="https://github.com/CharuNish/Automatic-water-dispenser-for-pets/assets/60501756/735a50e7-c16d-442d-8f81-b138699b2542" width ="50%" />  
+</p>
+
+
+#### Top Layer
+<p align="center">
+<img width ="55%" src="https://github.com/CharuNish/Automatic-water-dispenser-for-pets/assets/60501756/adacda95-b830-4462-9b18-5125600ea515" width ="3%"/>
+</p>
+
+#### Bottom Layer
+<p align="center">
+<img width="55%" src="https://github.com/CharuNish/Automatic-water-dispenser-for-pets/assets/60501756/85de5954-5251-4519-9c06-0798ab19cafc" width ="3%"/>
 </p>
 
 ### Enclosure Design
 Enclosure design was designed with SOLIDWORKS 2020.enclosure consists of plate, sink and container. Plastic is used in the enclosure. 3mmx 5mm screws were used to connect parts. 
 
+
 <div style="display: flex;">
-  <img src="https://github.com/CharuNish/Automatic-water-dispenser-for-pets/assets/60501756/5c0e1860-5226-407b-9046-2683505d72e2" width="400" alt="1">
-  <img src="https://github.com/CharuNish/Automatic-water-dispenser-for-pets/assets/60501756/b134b403-4269-491f-bc33-b3647665a318" width="400" alt="2">
+  <img src="https://github.com/CharuNish/Automatic-water-dispenser-for-pets/assets/60501756/eb929068-bec1-4e23-b454-d578441cc74e" width="400" alt="1">
+  <img src="https://github.com/CharuNish/Automatic-water-dispenser-for-pets/assets/60501756/c8a4bf83-09dd-4f9c-aade-37f826542079" width="400" alt="2">
 </div>
