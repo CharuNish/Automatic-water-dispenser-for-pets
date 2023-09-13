@@ -40,3 +40,17 @@ The functionality process of the product is as follows:
 <img src="https://github.com/CharuNish/Automatic-water-dispenser-for-pets/assets/60501756/aa7c76e6-1e21-4783-bf40-540362cc0b05" width ="75%" />  
 </p>
 
+### PCB Design
+Printed circuit board was designed with Altium Designer 23.3.1. It was a two-layer design. Manufacturing was done at JLCPCB in China. 
+
+<p align="center">
+<img src="https://github.com/CharuNish/Automatic-water-dispenser-for-pets/assets/60501756/a927f6aa-2c12-4c24-9c16-002957a755a3" width ="50%" />  
+</p>
+
+### Enclosure Design
+Enclosure design was designed with SOLIDWORKS 2020.enclosure consists of plate, sink and container. Plastic is used in the enclosure. 3mmx 5mm screws were used to connect parts. 
+
+<div style="display: flex;">
+  <img src="https://github.com/CharuNish/Automatic-water-dispenser-for-pets/assets/60501756/5c0e1860-5226-407b-9046-2683505d72e2" width="400" alt="1">
+  <img src="https://github.com/CharuNish/Automatic-water-dispenser-for-pets/assets/60501756/b134b403-4269-491f-bc33-b3647665a318" width="400" alt="2">
+</div>
